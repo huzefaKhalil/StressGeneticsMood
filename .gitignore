@@ -1,0 +1,3 @@
+# remove mac only files
+.DS_Store
+._*
