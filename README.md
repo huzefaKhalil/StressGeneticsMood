@@ -1,5 +1,5 @@
 # Stress Genetics and Mood
-This repository contains the code for the analysis presented in the paper "Stress, Genetics and Mood: Impact of COVID-19 on a College Freshman Sample"
+This repository contains the code for the analysis presented in the paper "The Impact of COVID-19 on a College Freshman Sample Reveals Genetic and Nongenetic Forms of Susceptibility and Resilience to Stress"
 
 ## Genetics
 The bash scripts for manipulating the genetic data require the following software and resources:
